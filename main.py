@@ -15,7 +15,7 @@ for mes in meses:
         vendas = tbVendas.loc[tbVendas['Vendas'] > 55000, 'Vendas'].values[0]
         print(f'No mês {mes} o vendedor: {vendedor} bateu a meta de R$55.000,00 com {vendas} vendas!')
         message = client.messages.create(
-            to="+5548996933325",
-            from_="+16617680696",
+            to="+numero",
+            from_="+numeroTwilio",
             body=f'No mês {mes} o vendedor: {vendedor} bateu a meta de R$55.000,00 com {vendas} vendas!')
         print(message.sid)
