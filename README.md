@@ -11,10 +11,36 @@
 
 ## 💻 Pré-requisitos
 
-* Instalar a biblioteca `pandas` 
+* Instalar a biblioteca `pandas`
+```bash
+pip install pandas
+ ```
 * Instalar a biblioteca `openpyxl`
+```bash
+pip install openpyxl
+```
 * Instalar a biblioteca `twilio`
+```bash
+pip install twilio
+```
 
 
+
+
+## 🤝 Autores
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/102593108?v=4" width="100px;" alt="Foto do ash no GitHub"/><br>
+        <sub>
+          <b>Ashlyn iero</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 [⬆ Voltar ao topo](#Análise-Funcionáros-Vendas)<br>
